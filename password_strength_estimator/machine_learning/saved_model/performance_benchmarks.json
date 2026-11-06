@@ -1,0 +1,10 @@
+{
+    "initial_app_startup_ms": 0.0,
+    "navigation_click_response_ms": 0.0,
+    "render_page_initial_ms": 249.72,
+    "loading_saved_records_ms": 4.09,
+    "add_new_entry_ms": 33.09,
+    "search_records_ms": 11.98,
+    "update_entry_ms": 32.75,
+    "delete_entry_ms": 26.18
+}

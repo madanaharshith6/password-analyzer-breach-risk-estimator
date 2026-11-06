@@ -1,0 +1,251 @@
+password,ground_truth_label,category_name
+aaaaaaaaaaaaaaaaaa,0,Very Weak
+bbbbbbbbbbbbbbbbbbbb,0,Very Weak
+11111111111111111111,0,Very Weak
+00000000000000000000,0,Very Weak
+********************,0,Very Weak
+!!!!!!!!!!!!!!!!!!!!,0,Very Weak
+xxxxxxxxxxxxxxxxxxxx,0,Very Weak
+yyyyyyyyyyyyyyyyyyyy,0,Very Weak
+zzzzzzzzzzzzzzzzzzzz,0,Very Weak
+####################,0,Very Weak
+12345678901234567890,0,Very Weak
+01234567890123456789,0,Very Weak
+98765432109876543210,0,Very Weak
+1234567890123456,0,Very Weak
+0987654321098765,0,Very Weak
+11223344556677889900,0,Very Weak
+123123123123123123,0,Very Weak
+456456456456456456,0,Very Weak
+789789789789789789,0,Very Weak
+12341234123412341234,0,Very Weak
+qwertyuiopasdfghjklzxcvbnm,0,Very Weak
+zxcvbnmasdfghjklqwertyuiop,0,Very Weak
+1qaz2wsx3edc4rfv5tgb,0,Very Weak
+1q2w3e4r5t6y7u8i9o0p,0,Very Weak
+poiuytrewqlkjhgfdsamnbvcxz,0,Very Weak
+!@#$%^&*()_+,0,Very Weak
+qazwsxedcrfvtgbyhnujmikolp,0,Very Weak
+plmoknijbuhvygctfxrdzeswaq,0,Very Weak
+zaq1xsw2cde3vfr4bgt5nhy6,0,Very Weak
+0p9o8i7u6y5t4r3e2w1q,0,Very Weak
+passwordpasswordpassword,0,Very Weak
+adminadminadminadmin,0,Very Weak
+welcome123welcome123,0,Very Weak
+iloveyouiloveyouiloveyou,0,Very Weak
+monkeymonkeymonkey,0,Very Weak
+dragondragondragon,0,Very Weak
+footballfootballfootball,0,Very Weak
+testingtestingtesting,0,Very Weak
+supermansuperman,0,Very Weak
+starwarsstarwarsstarwars,0,Very Weak
+123456,0,Very Weak
+password,0,Very Weak
+qwerty,0,Very Weak
+12345678,0,Very Weak
+admin,0,Very Weak
+welcome,0,Very Weak
+login,0,Very Weak
+football,0,Very Weak
+monkey,0,Very Weak
+charlie,0,Very Weak
+ThisIsMyPassword2024,1,Weak
+ArsenalFootballClub2024,1,Weak
+ilovemychildrenverymuch,1,Weak
+ManchesterUnited2023,1,Weak
+LiverpoolFootballClub1,1,Weak
+BarcelonaChampions2024,1,Weak
+WelcomeToMyWorld2024!,1,Weak
+SummerHolidayTrip2023,1,Weak
+WinterVacationTrip2024,1,Weak
+SpringBreakVacation2023,1,Weak
+AutumnSeasonWeather2024,1,Weak
+DanielAndAshleyForever,1,Weak
+MichaelJordanTheGOAT23,1,Weak
+CristianoRonaldoCR7!,1,Weak
+LionelMessiChampion10!,1,Weak
+SuperMarioBrothers1985,1,Weak
+CallOfDutyModernWarfare,1,Weak
+WorldOfWarcraftPlayer1,1,Weak
+GrandTheftAutoSanAndreas,1,Weak
+NeedForSpeedUnderground2,1,Weak
+J0hnD0e1990!,1,Weak
+M1ch@el2023,1,Weak
+D@n1el1995!,1,Weak
+R0b3rt2024,1,Weak
+Superman123456,1,Weak
+BatmanBegins1234,1,Weak
+SpiderMan2024!,1,Weak
+IronManAvenger123,1,Weak
+CaptainAmerica1941,1,Weak
+WonderWoman2024!,1,Weak
+coffeeandchocolate99,1,Weak
+musicandguitarplayer1,1,Weak
+planetearthdocumentary,1,Weak
+londonparisandtokyo,1,Weak
+newyorkcitysubway2024,1,Weak
+californiasunshine123,1,Weak
+goldenretrieverpuppy1,1,Weak
+blackpantherwakanda1,1,Weak
+fastandfuriousdrift1,1,Weak
+jurassicparkdinosaur1,1,Weak
+harrypotterandthegoblet,1,Weak
+lordoftheringsfellowship,1,Weak
+starwarstheforceawakens,1,Weak
+matrixrevolutionsneo1,1,Weak
+terminatorjudgementday,1,Weak
+rocknrollmusicforever,1,Weak
+heavyheavymetalmusic1,1,Weak
+hiphopandrapmusic2024,1,Weak
+electronicdancemusic1,1,Weak
+jazzandbluesguitarist,1,Weak
+Tr0ub4dor&3,2,Moderate
+BlueSky#2024,2,Moderate
+C0dingIsFun!,2,Moderate
+Tiger#9876,2,Moderate
+DragonFire!88,2,Moderate
+Falcon#2024,2,Moderate
+K!tten9876,2,Moderate
+P@ssw0rd99#,2,Moderate
+G!r4ff3#92,2,Moderate
+M0nk3y!B1rd,2,Moderate
+C@ctus#2024,2,Moderate
+W!zard#99,2,Moderate
+R0ck3t#2024,2,Moderate
+C0ff33!Cup9,2,Moderate
+V0rt3x#88,2,Moderate
+N3bul@!2024,2,Moderate
+P!x3l#2024,2,Moderate
+S1lv3r#B@ll,2,Moderate
+G0ld3n#K3y9,2,Moderate
+Sh@d0w#88,2,Moderate
+blue-sky-green-tree,2,Moderate
+silent-river-running,2,Moderate
+fast-fox-lazy-dog-99,2,Moderate
+happy-cloud-floating,2,Moderate
+cold-winter-breeze-8,2,Moderate
+warm-summer-sunshine-7,2,Moderate
+golden-meadow-flower,2,Moderate
+quiet-forest-harbor,2,Moderate
+swift-eagle-flying,2,Moderate
+bright-starlight-moon,2,Moderate
+deep-ocean-canyon-42,2,Moderate
+rocky-mountain-ridge,2,Moderate
+silver-stream-water,2,Moderate
+wild-desert-cactus,2,Moderate
+gentle-spring-rain-9,2,Moderate
+Kx9mP2vL8qW4,2,Moderate
+J8mK9vL2wP4z,2,Moderate
+R3xG9bL2qW7m,2,Moderate
+Z9kP2mX7vB4n,2,Moderate
+Q6wE8rT1yU3i,2,Moderate
+A4sD6fG8hJ2k,2,Moderate
+L9zX7cV5bN3m,2,Moderate
+P2oI4uY6tR8e,2,Moderate
+M5nB7vC9xZ1a,2,Moderate
+T8rE6wQ4yU2i,2,Moderate
+F3gH5jK7lP9o,2,Moderate
+V1bN3mK5lJ7h,2,Moderate
+X8zS6aD4fG2h,2,Moderate
+C9vB7nM5lK3j,2,Moderate
+W4eR6tY8uI2o,2,Moderate
+8#xK!2$vL9@q,3,Strong
+Z9$kP2#mX7!v,3,Strong
+R!3x#G9$bL2@,3,Strong
+Q6#wE8$rT1!y,3,Strong
+A4$sD6#fG8!h,3,Strong
+L9#zX7$cV5!b,3,Strong
+P2$oI4#uY6!t,3,Strong
+M5#nB7$vC9!x,3,Strong
+T8$rE6#wQ4!y,3,Strong
+F3#gH5$jK7!l,3,Strong
+V1$bN3#mK5!l,3,Strong
+X8#zS6$aD4!f,3,Strong
+C9$vB7#nM5!l,3,Strong
+W4#eR6$tY8!u,3,Strong
+B7$nM5#lK3!j,3,Strong
+Kx9#mP2$vL8@qW,3,Strong
+J8#mK9!vL2$wP4,3,Strong
+R!3x#G9$bL2@qW,3,Strong
+Z9$kP2#mX7!vB4,3,Strong
+Q6#wE8$rT1!yU3,3,Strong
+A4$sD6#fG8!hJ2,3,Strong
+L9#zX7$cV5!bN3,3,Strong
+P2$oI4#uY6!tR8,3,Strong
+M5#nB7$vC9!xZ1,3,Strong
+T8$rE6#wQ4!yU2,3,Strong
+F3#gH5$jK7!lP9,3,Strong
+V1$bN3#mK5!lJ7,3,Strong
+X8#zS6$aD4!fG2,3,Strong
+C9$vB7#nM5!lK3,3,Strong
+W4#eR6$tY8!uI2,3,Strong
+Falcon#72-Nebula*91,3,Strong
+Quantum_Matrix!42@Vortex,3,Strong
+Cobalt$99=Glacier*33,3,Strong
+Titanium#55_Horizon!88,3,Strong
+Thunder*24-Prism#77,3,Strong
+Catalyst!83@Beacon$19,3,Strong
+Granite#66_Phoenix*44,3,Strong
+Cascade$31-Obsidian!92,3,Strong
+Zenith*78#Vanguard@15,3,Strong
+Acoustic#47_Dynamo!63,3,Strong
+Solitude$82-Latitude*39,3,Strong
+Radiation#94_Platinum!27,3,Strong
+Telescope*53#Prism@81,3,Strong
+Element$38-Magnetic!76,3,Strong
+Nitrogen#19_Orbit*84,3,Strong
+Gravity*62-Velocity#49,3,Strong
+Friction$75_Reactor!28,3,Strong
+Citadel#89-Cascade*34,3,Strong
+Nebula*45_Horizon#91,3,Strong
+Horizon$67-Falcon!23,3,Strong
+X7$kL9#mP2&vQ8!zW1@e,4,Very Strong
+9f#K2$vL8@qW4%mP7!zR6&hT,4,Very Strong
+P8$mK2#vL9!qW4&zR7@bT5*hY,4,Very Strong
+Z1#xK9$vL4!qW8&mP2@bT6*yU,4,Very Strong
+Q9$wE3#rT7!yU1&iO5@pA8*sD,4,Very Strong
+L2#zX8$cV4!bN9&mK3@jH7*fG,4,Very Strong
+R6$tE2#wQ8!yU4&iO9@pA1*sD,4,Very Strong
+V5#bN1$mK7!lJ3&hG9@fD2*sA,4,Very Strong
+M8#nB4$vC2!xZ6&aS1@dF7*gH,4,Very Strong
+K3$jH9#fD5!sA1&zX7@cV2*bN,4,Very Strong
+W7#eR1$tY5!uI9&oP3@aS8*dF,4,Very Strong
+T4$rE8#wQ2!yU6&iO1@pA7*sD,4,Very Strong
+B9#nM3$lK7!jH1&gF5@dS2*aZ,4,Very Strong
+Y2$uI8#oP4!aS9&dF3@gH6*jK,4,Very Strong
+C5#vB9$nM1!lK6&jH2@gF8*dS,4,Very Strong
+D8$fG2#hJ6!kL1&pA7@sD3*fG,4,Very Strong
+H1#jK7$lP3!aS8&dF2@gH9*jK,4,Very Strong
+S6$aD2#fG8!hJ4&kL9@pA3*sD,4,Very Strong
+N3#mK9$lJ5!hG1&fD7@sA2*zX,4,Very Strong
+G7#hJ1$kL5!aS9&dF3@gH8*jK,4,Very Strong
+Correct-Horse-Battery-Staple-99!,4,Very Strong
+Thunder#Glacier-Horizon*Velocity99$,4,Very Strong
+Quantum!Solitude_Latitude#Acoustic*42,4,Very Strong
+Dynamo$Element-Nitrogen_Friction@88,4,Very Strong
+Magnetic#Radiation-Platinum*Telescope!77,4,Very Strong
+Prism$Vector-Matrix_Catalyst#55,4,Very Strong
+Reactor*Beacon-Citadel_Granite!33,4,Very Strong
+Phoenix#Cascade-Obsidian*Zenith$66,4,Very Strong
+Vanguard!Horizon_Velocity#Thunder*19,4,Very Strong
+Glacier$Battery-Staple_Quantum@47,4,Very Strong
+Solitude#Latitude-Acoustic*Dynamo!82,4,Very Strong
+Element$Nitrogen-Friction_Magnetic#94,4,Very Strong
+Radiation*Platinum-Telescope_Prism!53,4,Very Strong
+Vector#Matrix-Catalyst*Reactor$38,4,Very Strong
+Beacon!Citadel_Granite#Phoenix*89,4,Very Strong
+Cascade$Obsidian-Zenith_Vanguard@45,4,Very Strong
+Horizon#Thunder-Glacier*Battery!67,4,Very Strong
+Staple$Quantum-Solitude_Latitude#24,4,Very Strong
+Acoustic*Dynamo-Element_Nitrogen!75,4,Very Strong
+Friction#Magnetic-Radiation*Platinum$81,4,Very Strong
+AUTH_TOKEN#9872$vL9@qW4%mP7!zR,4,Very Strong
+SESSION_KEY&2026*X7$kL9#mP2@vQ8,4,Very Strong
+API_SECRET!4291#Kx9$mP2%vL8@qW,4,Very Strong
+CRYPT_NODE@8844&Z9$kP2#mX7!vB4,4,Very Strong
+SECURE_VAULT*5522$Q6#wE8!rT1@yU,4,Very Strong
+HASH_SALT_GEN#7711%A4$sD6!fG8@hJ,4,Very Strong
+ENTROPY_TOKEN$3399*L9#zX7!cV5@bN,4,Very Strong
+CIPHER_BLOCK&6644#P2$oI4!uY6@tR,4,Very Strong
+MASTER_SIGN!9911%M5#nB7@vC9*xZ,4,Very Strong
+KERBEROS_TGT#1122$T8$rE6!wQ4@yU,4,Very Strong

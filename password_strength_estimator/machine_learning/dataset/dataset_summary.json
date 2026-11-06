@@ -1,0 +1,36 @@
+{
+    "total_samples": 5000,
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "num_features": 20,
+    "feature_names": [
+        "length",
+        "num_uppercase",
+        "num_lowercase",
+        "num_digits",
+        "num_special",
+        "ratio_uppercase",
+        "ratio_lowercase",
+        "ratio_digits",
+        "ratio_special",
+        "char_variety",
+        "unique_char_ratio",
+        "shannon_entropy",
+        "max_consecutive_repeated",
+        "has_sequential_char",
+        "has_sequential_num",
+        "has_keyboard_seq",
+        "has_common_word",
+        "has_year_pattern",
+        "pool_size",
+        "entropy_bits"
+    ],
+    "class_distribution": {
+        "Very Weak": 1000,
+        "Weak": 1000,
+        "Moderate": 1000,
+        "Strong": 1000,
+        "Very Strong": 1000
+    },
+    "random_seed": 42
+}

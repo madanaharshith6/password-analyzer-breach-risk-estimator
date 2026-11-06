@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local databases and user data
+*.db
+*.sqlite
+*.sqlite3
+database/password_audit.db
+
+# Build / editor files
+build/
+dist/
+*.egg-info/
+.DS_Store
+.vscode/
+.idea/

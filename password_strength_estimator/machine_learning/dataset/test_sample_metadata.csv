@@ -1,0 +1,101 @@
+sample_password_masked,length,ground_truth_label,category_name
+dr****@1,8,1,Weak
+VC**********HK,14,3,Strong
+zx**bn,6,0,Very Weak
+2F******64,10,2,Moderate
+ha**********80,14,2,Moderate
+jj*jj,4,0,Very Weak
+pa****************************rd,32,0,Very Weak
+bd****jc,8,1,Weak
+zx**bn,6,0,Very Weak
+Su******64,10,2,Moderate
+St*******55,11,2,Moderate
+Ba********03,12,1,Weak
+12*34,4,0,Very Weak
+pp**pp,6,0,Very Weak
+jL******2c,10,2,Moderate
+El********************************8@,36,4,Very Strong
+zx**bn,6,0,Very Weak
+7B******9o,10,2,Moderate
+ca****34,8,1,Weak
+da*********fi,13,3,Strong
+tT******************i3,22,4,Very Strong
+iQ******F1,10,2,Moderate
+9a*****************^$,21,4,Very Strong
+La*******************************0*,35,4,Very Strong
+pa************rd,16,0,Very Weak
+4!*******Cf,11,3,Strong
+R0*****30,9,2,Moderate
+si************42,16,2,Moderate
+as***************23,19,0,Very Weak
+Co************9&,16,3,Strong
+N#******************gm,22,4,Very Strong
+#q*******s3,11,3,Strong
+mt******5b,10,2,Moderate
+bl**********75,14,2,Moderate
+05**65,6,0,Very Weak
+Fa************6*,16,3,Strong
+ll*****************ll,21,0,Very Weak
+k3******3b,10,2,Moderate
+C@*****38,9,2,Moderate
+yf******************_p,22,4,Very Strong
+hs*ur,5,0,Very Weak
+pa****************************rd,32,0,Very Weak
+6k********nk,12,3,Strong
+Dr*****16,9,2,Moderate
+99**99,6,0,Very Weak
+Sh*****20,9,2,Moderate
+#4*******wU,11,3,Strong
+qh******************ui,22,4,Very Strong
+mu***51,7,1,Weak
+Fa************7&,16,3,Strong
+y8******u4,10,2,Moderate
+ye****@4,8,1,Weak
+eq*******!5,11,3,Strong
+pl****40,8,1,Weak
+Fa*******84,11,2,Moderate
+gT*******Ts,11,3,Strong
+$7***********fy,15,3,Strong
+!!*******************!!,23,0,Very Weak
+J&**********L%,14,3,Strong
+Vo************8?,16,3,Strong
+lo****10,8,1,Weak
+qw*er,4,0,Very Weak
+Ti*****90,9,1,Weak
+we*************jk,17,0,Very Weak
+sh**********81,14,1,Weak
+k4*******Fh,11,3,Strong
+Xg******************iy,22,4,Very Strong
+Fa************3@,16,3,Strong
+Fa************1&,16,3,Strong
+T0****81,8,2,Moderate
+S2******************sr,22,4,Very Strong
+ti***@2,7,1,Weak
+78********78,12,0,Very Weak
+p&******9P,10,2,Moderate
+yk*il,5,0,Very Weak
+op**************nm,18,0,Very Weak
+Or******************************0@,34,4,Very Strong
+ro****89,8,1,Weak
+Yu******************&c,22,4,Very Strong
+er************************34,28,0,Very Weak
+uu**uu,6,0,Very Weak
+8d******a3,10,2,Moderate
+W6******9j,10,2,Moderate
+Gl********************************1*,36,4,Very Strong
+ti***@3,7,1,Weak
+12********12,12,0,Very Weak
+vi*********xK,13,3,Strong
+kn**********68,14,1,Weak
+dr****!2,8,1,Weak
+CA***************5=,19,4,Very Strong
+!X*******T^,11,3,Strong
+si************53,16,2,Moderate
+kn****67,8,1,Weak
+Fa************1@,16,3,Strong
+Zm******o4,10,2,Moderate
+Ct********(J,12,3,Strong
+ra**********66,14,2,Moderate
+fO**************KH,18,4,Very Strong
+or****84,8,1,Weak
+$5*******jY,11,3,Strong
